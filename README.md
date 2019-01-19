@@ -10,15 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 Python 3 is the only thing required to run die-freak.
 
-```
-Give examples
-```
-
 ### Installing
 
 DieFreak is a free-standing python module with no installation required. For the time being, it is written to be invoked directly.
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ### Using die-freak
 
